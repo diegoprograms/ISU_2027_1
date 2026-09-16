@@ -9,6 +9,8 @@
 - Si se aprueba, el anteproyecto será la base del desarrollo posterior utilizando GitHub.
 - El usuario aportará primero los términos de la convocatoria, después la propuesta y finalmente los perfiles docentes.
 - Se busca continuidad del trabajo entre 2027-1 y 2027-2.
+- El repositorio está conectado a https://github.com/diegoprograms/ISU_2027_1, en la rama main.
+- Se recibió el anteproyecto de prefactibilidad en PDF y se conserva sin modificaciones en referencias/anteproyecto-inicial.pdf.
 
 ## Pendientes
 
@@ -16,5 +18,5 @@
 - Confirmar si los cuatro meses corresponden a cada semestre.
 - Confirmar el número total de docentes participantes.
 - Definir responsabilidades a partir de perfiles y disponibilidad.
-- Definir cuándo conectar el repositorio a GitHub y quiénes tendrán acceso.
-- Obtener la URL del repositorio existente para revisar su contenido antes de conectarlo y subir los archivos.
+- Definir quiénes tendrán acceso al repositorio.
+- Revisar el PDF inicial e incorporar lo acordado al documento maestro.

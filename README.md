@@ -10,6 +10,7 @@ Espacio de trabajo para redactar y revisar el anteproyecto con los docentes part
 - [Equipo](equipo/responsabilidades.md): perfiles, dedicación y responsabilidades.
 - [Plan de trabajo](planificacion/plan-de-trabajo.md): cronograma, productos y continuidad entre semestres.
 - `referencias/`: propuesta inicial, antecedentes y fuentes de apoyo.
+- [Anteproyecto inicial en PDF](referencias/anteproyecto-inicial.pdf): original de prefactibilidad aportado por el equipo, pendiente de revisión.
 - `entregables/`: versiones para presentar en Word o PDF.
 - [Instrucciones para Codex](AGENTS.md): pautas comunes para las sesiones de los docentes.
 
