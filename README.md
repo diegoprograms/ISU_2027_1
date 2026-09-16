@@ -7,6 +7,7 @@ Espacio de trabajo para redactar y revisar el anteproyecto con los docentes part
 - [Anteproyecto](anteproyecto.md): versión maestra de la propuesta.
 - [Acuerdos y pendientes](acuerdos.md): decisiones y preguntas por resolver.
 - [Requisitos](convocatoria/requisitos.md): requisitos y criterios de evaluación de la convocatoria.
+- [Términos de la convocatoria ISU IX — 2026-2](convocatoria/terminos-isu-ix-2026-2.pdf): PDF original recibido, pendiente de revisión y de confirmar su aplicación a 2027.
 - [Equipo](equipo/responsabilidades.md): perfiles, dedicación y responsabilidades.
 - [Plan de trabajo](planificacion/plan-de-trabajo.md): cronograma, productos y continuidad entre semestres.
 - `referencias/`: propuesta inicial, antecedentes y fuentes de apoyo.
