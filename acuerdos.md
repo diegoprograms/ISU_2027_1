@@ -10,15 +10,23 @@
 - El usuario aportará primero los términos de la convocatoria, después la propuesta y finalmente los perfiles docentes.
 - Se busca continuidad del trabajo entre 2027-1 y 2027-2.
 - El repositorio está conectado a https://github.com/diegoprograms/ISU_2027_1, en la rama main.
-- Se recibió el anteproyecto de prefactibilidad en PDF y se conserva sin modificaciones en referencias/anteproyecto-inicial.pdf.
-- Se recibieron los términos de la convocatoria y se conservan sin modificaciones en convocatoria/terminos-isu-ix-2026-2.pdf.
+- Se recibió el anteproyecto de prefactibilidad en PDF y se conserva sin modificaciones en convocatoria/anteproyecto-inicial.pdf.
+- Se recibieron los términos de la convocatoria y se conservan sin modificaciones en convocatoria/terminos_isu_ix_2026_2.pdf.
 
 ## Pendientes
 
-- Revisar los términos de la convocatoria y su formato de presentación.
-- Confirmar la aplicación a 2027 de los términos recibidos, cuyo nombre de archivo indica 2026-2.
+- Completar la revisión de los términos, la modalidad, la matriz de productos y el formato de presentación.
+- Confirmar el inicio efectivo de ejecución; los términos recibidos fijan entrega final hasta el 31 de mayo de 2027 (p. 30, apartado 16).
 - Confirmar si los cuatro meses corresponden a cada semestre.
 - Confirmar el número total de docentes participantes.
 - Definir responsabilidades a partir de perfiles y disponibilidad.
 - Definir quiénes tendrán acceso al repositorio.
-- Revisar el PDF inicial e incorporar lo acordado al documento maestro.
+- Revisar con el equipo la primera redacción e incorporar los ajustes confirmados.
+
+## Avance de redacción del 18 de septiembre de 2026
+
+- Por solicitud del usuario, se redactaron el título, el planteamiento del problema y la justificación en `anteproyecto.md`, con fuentes y datos pendientes. Son propuestas de redacción, no decisiones de alcance aprobadas.
+- Se propone centrar la primera formulación en monitoreo participativo del tránsito y estimación de emisiones. Las alertas de calidad del aire del PDF inicial requieren evaluación técnica adicional; este ajuste de alcance queda pendiente de aprobación del equipo.
+- Se registró una revisión parcial de requisitos en `convocatoria/requisitos.md`. Los términos indican un periodo académico y postulación independiente de cada etapa (pp. 14 y 30); la continuidad en 2027-2 no está aprobada ni financiada.
+- Se conservaron los originales. No se han confirmado mediciones locales, participación comunitaria, compromisos docentes ni resultados obtenidos.
+- Pendiente formular objetivos, metodología, productos e indicadores y comprobar su coherencia con equipo, recursos y cronograma.
