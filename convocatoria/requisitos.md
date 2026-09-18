@@ -6,6 +6,9 @@ Aunque el nombre del archivo indica 2026-2, el apartado 16 señala entrega final
 
 | Requisito o criterio | Fuente y página/apartado | Sección o evidencia en la propuesta | Estado |
 | --- | --- | --- | --- |
+| Participar como líder en un único proyecto y como colaborador en uno o más; el apartado 4.2.3 permite expresamente ser líder en uno e integrante en otro | terminos_isu_ix_2026_2.pdf, p. 9, apartado 3; p. 13, 4.2.3 | Equipo y responsabilidades | Verificado en el documento recibido; participaciones del equipo pendientes |
+| La suma de dedicación no debe superar 16 horas semanales por gestor; la Facultad habilita la participación y verifica carga y topes institucionales | Mismo archivo, p. 9, apartado 3; p. 11, 4.1.3 | Disponibilidad docente | Pendiente verificar dedicación acumulada de cada participante |
+| Destinatarios: docentes de Tiempo Completo Ocasional sin proyectos aprobados de Ciencia, Tecnología e Innovación a la apertura; contrato vigente al presentar la propuesta | Mismo archivo, p. 9, apartados 3 y 4.1.1 | Elegibilidad del equipo | Pendiente verificar situación de cada docente |
 | Diálogo de saberes y construcción de conocimiento con actores del territorio | terminos_isu_ix_2026_2.pdf, pp. 4-5, presentación | Problema y justificación | Incorporado como enfoque propuesto; concertación pendiente |
 | Cronograma vinculado con productos y sus condiciones de calidad | Mismo archivo, p. 13, 4.2.1 y 4.2.2 | Metodología, cronograma y productos | Pendiente |
 | Entre dos y tres gestores activos; identificar acciones y producto de cada participante | Mismo archivo, p. 13, 4.2.3 | Equipo y responsabilidades | Pendiente de perfiles y designación |
